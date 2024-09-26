@@ -95,3 +95,5 @@ function getEvens(numbers) {
 function getOdds(numbers) {
   // TODO
 }
+
+// console.log (this is a test)
